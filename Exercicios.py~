@@ -21,5 +21,5 @@ while x < len(L):
 if x<len(L):
     print(f"achou o segundo na posição {x+1}")
 else:
-    print("nao achou o segundooo")
+    print("nao achou o segundo")
 
